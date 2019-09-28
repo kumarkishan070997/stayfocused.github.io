@@ -1,0 +1,38 @@
+.admin
+{
+	background-color: #CD8CE8;
+	margin-top: 100px;
+	margin-left: 500px;
+	margin-right: 500px;
+	height: 300px;
+	border-radius: 20px;
+}
+p
+{
+	font-size: 25px;
+	font-family: calibri;
+	color: #151414;
+}
+.heading
+{
+	text-align: center;
+}
+.heading p
+{
+	font-size: 30px
+	font-family:calibri;
+	color: #3BAAF0;
+}
+.heading hr
+{
+	width: 500px;
+	border: 3px solid red;
+}
+input
+{
+	border: none;
+	border-bottom: 2px solid red;
+}
+input:focus {
+  border: 3px solid #555;
+}
